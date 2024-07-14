@@ -1,0 +1,129 @@
+tree,zul,ssw
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (Deverb15 PPos (UseV eat_V)) (CopAP (PositA nice_R))))) NoVoc,ukudla kumnandi,kudla kumnandzi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop it17_Pron)) (AdvVPLight (UseV burn_V) outside_Adv)))) NoVoc,kuyashisa phandle,kuyashisa phandle
+PhrUtt NoPConj (UttS (AdvS outside_Adv (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop it17_Pron)) (UseV burn_V))))) NoVoc,phandle kuyashisa,phandle kuyashisa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop it17_Pron)) (UseV burn_V)))) NoVoc,kuyashisa,kuyashisa
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (AdvVP (UseV sit_V) down_Adv))) NoVoc,hlala phansi,hlala phansi
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (UseV look_V))) NoVoc,bheka,bheka
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (UseV play_V))) NoVoc,dlala,dlala
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (UseV bring_V))) NoVoc,letha,letsa
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (UseV read_V))) NoVoc,fundani,fundzani
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (UseV dance_2_V))) NoVoc,sinani,sinani
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (UseV build_V))) NoVoc,yakha,yakha
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (UseV do_V))) NoVoc,yenzani,yentani
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (UseV roast_V))) NoVoc,yosa,yosa
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (UseV eat_V))) NoVoc,yidla,dlani
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (UseV go_V))) NoVoc,hamba,hamba
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (UseV hit_V))) NoVoc,shaya,shaya
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (ComplVV do_not_VV (UseV go_V)))) NoVoc,musa ukuhamba,musa kuhamba
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (ComplVV do_not_VV (UseV hit_V)))) NoVoc,musa ukushaya,musa kushaya
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (UseV sleep_V))) NoVoc,lalani,lalani
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (UseV learn_V))) NoVoc,fundani,fundzani
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (ComplVV do_not_VV (UseV sleep_V)))) NoVoc,musani ukulala,musani kulala
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (ComplVV do_not_VV (UseV learn_V)))) NoVoc,musani ukufunda,musani kufundza
+PhrUtt NoPConj (UttImpSg PNeg (ImpVP (UseV cry_V))) NoVoc,ungakhali,ungakhali
+PhrUtt NoPConj (UttImpSg PNeg (ImpVP (UseV eat_V))) NoVoc,ungadli,ungadli
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (AdvVP (UseV do_V) like_this_Adv))) NoVoc,yenza kanje,yenta kanje
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (AdvVP (UseV stay_V) (PositAdvAdj good_A)))) NoVoc,sala kahle,sala kahle
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (AdvVP (UseV go_V) (PositAdvAdj good_A)))) NoVoc,hamba kahle,hamba kahle
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (AdvVP (UseV run_V) much_Adv))) NoVoc,gijima kakhulu,gijima kakhulu
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (AdvVP (UseV plough_V) (PositAdvAdj good_A)))) (VocNP (DetCN (DetNum NumSg) (UseN farmer_N))),lima kahle mlimi,lima kahle mlimi
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (AdvVP (UseV play_V) (PositAdvAdj nice_R)))) (VocNP (DetCN (DetNum NumPl) (UseN boy_N))),dlalani kamnandi bafana,dlalani kamnandzi bafana
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN woman_N)) (ComplV2 call_V2 (DetCN (DetNum NumSg) (UseN boy_N)))))) NoVoc,umfazi ubiza umfana,umfati ubita umfana
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (ComplV2 see_V2 (DetCN (DetNum NumPl) (UseN herd_boy_N)))))) NoVoc,ngibona abelusi,ngibona belusi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (ComplV2 like_V2 (Deverb15 PPos (UseV eat_V)))))) NoVoc,sithanda ukudla,sitsandza kudla
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop youSg_Pron)) (AdvVP (UseV talk_V) much_Adv)))) NoVoc,ukhuluma kakhulu,ukhuluma kakhulu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop youPl_Pron)) (ComplV2 play_V2 (DetCN (DetNum NumSg) (UseN soccer_N)))))) NoVoc,nidlala ibhola,nidlala libhola
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop he_Pron)) (AdvVP (UseV talk_V) much_Adv)))) NoVoc,ukhuluma kakhulu,ukhuluma kakhulu
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (UsePron (ProDrop they_Pron)) (AdvVP (UseV talk_V) much_Adv)))) NoVoc,bakhuluma kakhulu,bakhuluma kakhulu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN scholar_N)) (ComplV2 read_V2 (DetCN (DetNum NumSg) (UseN book_N)))))) NoVoc,abafundi bafunda incwadi,bafundi bafundza incwadzi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN dog_N)) (ComplV2 bite_V2 (DetCN (DetNum NumSg) (UseN cat_N)))))) NoVoc,inja iluma ikati,inja iluma likati
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN woman_N)) (AdvVP (UseV cook_V) now_Adv)))) NoVoc,umfazi upheka manje,umfati upheka manje
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN boy_N)) (AdvVP (UseV run_V) much_Adv)))) NoVoc,abafana bagijima kakhulu,bafana bagijima kakhulu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN woman_N)) (AdvVP (ComplV2 cook_V2 (Deverb15 PPos (UseV eat_V))) here_Adv)))) NoVoc,umfazi upheka ukudla lapha,umfati upheka kudla lapha
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop she_Pron)) (UseV work_V)))) NoVoc,uyasebenza,uyasebenta
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN woman_N)) (UseV cook_V)))) NoVoc,umfazi uyapheka,umfati uyapheka
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN woman_N)) (ComplV2 cook_V2 (Deverb15 PPos (UseV eat_V)))))) NoVoc,umfazi upheka ukudla,umfati upheka kudla
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN man_N)) (UseV work_V)))) NoVoc,amadoda ayasebenza,emadvodza ayasebenta
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN man_N)) (AdvVP (UseV work_V) much_Adv)))) NoVoc,amadoda asebenza kakhulu,emadvodza asebenta kakhulu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN builder_N)) (UseV drink_V)))) NoVoc,umakhi uyaphuza,umakhi uyanatsa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN builder_N)) (ComplV2 drink_V2 (DetCN (DetNum NumPl) (UseN water_N)))))) NoVoc,umakhi uphuza amanzi,umakhi unatsa emanti
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fire_N)) (UseV burn_V)))) NoVoc,umlilo uyashisa,umlilo uyashisa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fire_N)) (AdvVP (UseV burn_V) (PositAdvAdj bad_A))))) NoVoc,umlilo ushisa kabi,umlilo ushisa kabi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (AdvVPLight (UseV go_V) now_Adv)))) NoVoc,siyahamba manje,siyahamba manje
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop he_Pron)) (AdvVPLight (UseV visit_V) (LocAdvAdv (LocNPAdv (DetCN (DetNum NumSg) (UseN home_N)))))))) NoVoc,uyavakasha ekhaya,uyavakasha ekhaya
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (ComplV2 steal_V2 (DetCN (DetNum NumSg) (UseN money_N)))))) NoVoc,ngeba imali,ngeba imali
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (ComplV2 roast_V2 (DetCN (DetNum NumSg) (UseN meat_N)))))) NoVoc,sosa inyama,sosa inyama
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop youPl_Pron)) (ComplV2Nonspec kiss_V2 (DetCN (DetNum NumPl) (UseN sister_N)))))) NoVoc,nanga odadewenu,nanga bodzadzewenu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN boy_N)) (ComplV2 refuse_V2 (Deverb15 PPos (UseV play_V)))))) NoVoc,abafana bala ukudlala,bafana bala kudlala
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN person_N)) (AdvVP (UseV do_wrong_V) always_Adv)))) NoVoc,abantu bona njalo,bantfu bona njalo
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN lion_N)) (ComplV2 jump_over_V2 (DetCN (DetNum NumSg) (UseN gate_N)))))) NoVoc,ibhubesi leqa isango,libhubesi leca lisango
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN horse_N)) (AdvVP (UseV get_thin_V) quickly_Adv)))) NoVoc,ihhashi londa masinya,lihhashi londza masinya
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN sore_N)) (AdvVP (UseV bleed_V) (PositAdvAdj bad_A))))) NoVoc,isilonda sopha kabi,silondza sopha kabi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN old_woman_N)) (ComplV2 distribute_V2 (DetCN (DetNum NumSg) (UseN bread_N)))))) NoVoc,isalukazi saba isinkwa,salukati saba sinkhwa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN messenger_N)) (ComplV2 wear_V2 (DetCN (DetNum NumPl) (UseN blanket_N)))))) NoVoc,izigijimi zembatha izingubo,tigijimi tembatsa tingubo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN gangster_N)) (ComplV2 break_V2 (DetCN (DetNum NumPl) (UseN window_N)))))) NoVoc,izigebengu zephula amafasitele,tigebengu tephula emafasitelo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN girl_N)) (ComplV2 save_V2 (DetCN (DetNum NumSg) (UseN money_N)))))) NoVoc,izintombi zonga imali,tintfombi tonga imali
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN grass_N)) (ComplVV refuse_VV (UseV burn_2_V))))) NoVoc,utshani bala ukuvutha,tjani bala kuvutsa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tree_N)) (AdvVP (UseV dry_V) quickly_Adv)))) NoVoc,imithi yoma masinya,imiti yoma masinya
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN builder_N)) (AdvVP (UseV build_V) here_Adv)))) NoVoc,umakhi wakha lapha,umakhi wakha lapha
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (LocNNP outside_LocN) (AdvVPLight (UseV dry_V) today_Adv)))) NoVoc,phandle komile namuhla,phandle komile lamuhla
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (LocNNP outside_LocN) (AdvVP (UseV dry_V) today_Adv)))) NoVoc,phandle kome namuhla,phandle kome lamuhla
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop they_Pron)) (UseV steal_V)))) NoVoc,bayeba,bayeba
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop he_Pron)) (UseV descend_V)))) NoVoc,uyehla,uyehla
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop he_Pron)) (ComplV2 eat_V2 (UsePron (ProDrop he_Pron)))))) NoVoc,uyamudla,uyamudla
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (AdvVP (ComplV2Light see_V2 (UsePron (ProDrop he_Pron))) now_Adv)))) NoVoc,ngiyambona manje,ngiyambona manje
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN woman_N)) (ComplV2 cook_V2 (UsePron (ProDrop it15_Pron)))))) NoVoc,umfazi uyakupheka,umfati uyakupheka
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN man_N)) (ComplV2Light see_V2 (DetCN (DetNum NumSg) (UseN village_N)))))) NoVoc,amadoda ayawubona umuzi,emadvodza ayawubona umuti
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN old_woman_N)) (ComplV2Light cook_V2 (DetCN (DetNum NumSg) (UseN pumpkin_porridge_N)))))) NoVoc,izalukazi ziyasipheka isidudu,talukati tiyasipheka sidvudvu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (ComplV2 call_V2 (DetCN (DetNum NumSg) (UseN boy_N)))))) NoVoc,ngibiza umfana,ngibita umfana
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN builder_N)) (ComplV2 build_V2 (DetCN (DetNum NumSg) (UseN kraal_N)))))) NoVoc,umakhi wakha isibaya,umakhi wakha sibaya
+PhrUtt NoPConj (UttImpSg PPos (ImpVP (ComplV2 call_V2 (UsePron (ProDrop he_Pron))))) (VocNP (DetCN (DetNum NumSg) (UseN girl_N))),mbize ntombi,mbite ntfombi
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (ComplV2Nonspec read_V2 (UsePron (ProDrop they8_Pron))))) (VocNP (DetCN (DetNum NumPl) (UseN boy_N))),zifundeni bafana,tifundzeni bafana
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (ComplV2Light plough_V2 (DetCN (DetNum NumSg) (UseN field_N))))) NoVoc,yilimeni insimu,yilimeni insimu
+PhrUtt NoPConj (UttImpPl PPos (ImpVP (ComplVV do_not_VV (ComplV2Light plough_V2 (DetCN (DetNum NumSg) (UseN field_N)))))) NoVoc,musani ukuyilima insimu,musani kuyilima insimu
+PhrUtt NoPConj (UttImpPl PNeg (ImpVP (ComplV2Light plough_V2 (DetCN (DetNum NumSg) (UseN field_N))))) NoVoc,ningayilimi insimu,ningayilimi insimu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (ComplV2Refl hit_V2 (DetCN (DetNum NumSg) (UseN finger_N)))))) NoVoc,ngizishaya umunwe,ngitishaya umuno
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (AdvVP (UseVStative tire_V) now_Adv)))) NoVoc,ngikhathele manje,ngidziniwe manje
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop he_Pron)) (AdvVP (AdvVP (AdvVPLight (UseV go_2_V) (PositAdvAdj how_much_A)) yonder_Adv) in_the_afternoon_Adv)))) NoVoc,uya kangaki laphaya ntambama,uya kangakhi laphayi ntsambama
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop she_Pron)) (AdvVP (ComplV2Nonspec wash_V2 (DetCN (DetNum NumPl) (UseN clothing_N))) when_Adv)))) NoVoc,ugeza izingubo nini,uhlanta tembatfo nini
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN girl_N)) (AdvVP (UseV gather_firewood_V) (LocAdvAdv (LocNPAdv (DetCN (DetNum NumSg) (UseN forest_N)))))))) NoVoc,izintombi zitheza ehlathini,tintfombi titfota ehlatsini
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN child_N)) (AdvVPLight (UseV sit_V) (LocAdvAdv (LocNPAdv (DetCN (DetNum NumSg) (UseN home_N)))))))) NoVoc,abantwana bahlala ekhaya,bantfwana bahlala ekhaya
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (AdvVP (UseV meet_V) (InstrNPAdv (DetCN (DetNum NumPl) (UseN child_2_N))))))) NoVoc,sihlangana ngezingane,sihlangana ngebantfwana
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop he_Pron)) (AdvVP (UseV play_V) (NaNPAdv (DetCN (DetNum NumPl) (UseN child_N))))))) NoVoc,udlala nabantwana,udlala nebantfwana
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (AdvVP (UseV go_V) (NaNPAdv (DetCN (DetNum NumSg) (UseN girl_N))))))) NoVoc,ngihamba nentombi,ngihamba nentfombi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop he_Pron)) (AdvVP (UseV run_V) (JustLikeNPAdv (DetCN (DetNum NumSg) (UseN baboon_N))))))) NoVoc,ugijima njengemfene,ugijima njengemfene
+PhrUtt NoPConj (UttS (AdvS (LocAdvAdv (LocNPAdv (DetCN (DetNum NumSg) (UseN school_N)))) (UseCl TPresTemp PNeg (PredVP (UsePron (ProDrop we_Pron)) (AdvVP (UseV play_V) (LocAdvAdv (LocNPJustLikeAdv (DetCN (DetNum NumSg) (UseN home_N))))))))) NoVoc,esikoleni asidlali njengasekhaya,esikolweni asidlali njengasekhaya
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN boy_N)) (CopNPEq (DetCN (DetNum NumSg) (UseN his_father_N)))))) NoVoc,umfana unjengoyise,umfana unjengayise
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN elephant_N)) (CopNPEqSize (DetCN (DetNum NumSg) (UseN mountain_N)))))) NoVoc,indlovu ingangentaba,indlovu ingangentsaba
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (UseV return_V)))) NoVoc,sibuyile,sibuyile
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (ComplV2Light call_V2 (DetCN (DetNum NumPl) (UseN child_N)))))) NoVoc,sibabizile abantwana,sibabitile bantfwana
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (ComplV2Light take_V2 (DetCN (DetNum NumPl) (UseN goods_N)))))) NoVoc,sizithethe izimpahla,sititsetse timpahla
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (UseVStative tire_2_V)))) NoVoc,sikhathele,sikhatsele
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN sheep_N)) (UseV run_away_V)))) NoVoc,izimvu zabaleka,timvu tabaleka
+PhrUtt NoPConj (UttS (UseClProg TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN boy_N)) (UseV milk_V)))) NoVoc,abafana abasasengi,bafana abasasengi
+PhrUtt NoPConj (UttS (ExtConjS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN sheep_N)) (UseV survive_V))) however_Conj (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (ContrastCN (UseN cow_N))) (UseV die_V))))) NoVoc,izimvu zasinda kodwa izinkomo zona zafa,timvu tasindza kodvwa tinkhomo tona tafa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (ComplV2Nonspec want_V2 (PronPostdetNP it5_Pron (DemPostdet this_Quant)))))) NoVoc,ngifuna lona leli,ngifuna lona leli
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (ComplV2 like_V2 (PronPostdetNP (ProDrop they10_Pron) (DemPostdet that_Quant)))))) NoVoc,sithanda lezo,sitsandza leto
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (PredetN (QuantPredet all_QuantStem) box_N)) (AdvVP (UseV fall_V) (LocAdvAdv (LocNPAdv (DetCN (DetNum NumPl) (UseN water_N)))))))) NoVoc,lonke ibhokisi liwele emanzini,lonkhe libhokisi liwele emantini
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (PostdetCN (UseN food_N) (QuantPostdet all_QuantStem) (DetNum NumSg)) (UseVStative end_V)))) NoVoc,ukudla konke kuphelile,kudla konkhe kuphelile
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (ComplV2 want_V2 (PostdetCN (UseN meat_N) (QuantPostdet only_QuantStem) (DetNum NumSg)))))) NoVoc,ngifuna inyama yodwa,ngifuna inyama yodvwa
+PhrUtt NoPConj (UttS (ExistNP (RelNP (PostdetCN (UseN old_woman_N) (QuantPostdet only_QuantStem) (DetNum NumSg)) (UseRCl TPresTemp PPos (RelVP IdRP (AdvVP (UseV sit_V) (LocAdvAdv (LocNPAdv (DetCN (DetNum NumSg) (UseN home_N)))))))))) NoVoc,yisalukazi sodwa esihlala ekhaya,salukati sodvwa lesihlala ekhaya
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (ComplV2 see_V2 (DetCN (DetNum NumPl) (PossNP (UseN goods_N) (UsePron youPl_Pron))))))) NoVoc,ngibona izimpahla zenu,ngibona timpahla tenu
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (UsePron (ProDrop i_Pron)) (ComplV2 receive_V2 (DetCN (DetNum NumPl) (PossNPLoc (UseN book_N) (DetCN (DetNum NumSg) (UseN home_N)))))))) NoVoc,ngamukele izincwadi zasekhaya,ngamukele tincwadzi tasekhaya
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (PossNP (UseN dog_N) (DetCN (DetNum NumSg) (UseN village_N)))) (UseV bark_V)))) NoVoc,izinja zomuzi ziyakhonkotha,tinja temuti tiyakhonkhotsa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (PossNPLoc (UseN dog_N) (DetCN (DetNum NumSg) (UseN village_N)))) (UseV bark_V)))) NoVoc,izinja zasemzini ziyakhonkotha,tinja tasemtini tiyakhonkhotsa
+PhrUtt NoPConj (UttS (ExistAppos (DetCN (DetNum NumSg) (UseN lion_N)) (DetCN (DetNum NumSg) (UseN animal_N)))) NoVoc,ibhubesi yisilwane,libhubesi silwane
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN boy_N)) (CopNP (DetCN (DetNum NumSg) (UseN student_N)))))) NoVoc,umfana uyisitshudeni,umfana usitshudeni
+PhrUtt NoPConj (UttS (ExistNP (UsePron youSg_Pron))) NoVoc,nguwe,nguwe
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN worker_N)) (AdvVP (CopQuant only_QuantStem) today_Adv)))) NoVoc,isisebenzi sisodwa namuhla,sisebenti sisodvwa lamuhla
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN boy_N)) (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN home_N)))))))) NoVoc,abafana abekho ekhaya,bafana abekho ekhaya
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN water_N)) (CopLocative khona_Loc)))) NoVoc,amanzi awekho,emanti awekho
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (PredetN (DemPredet this_Quant) man_N)) (CopNPAssoc (DetCN (DetNum NumSg) (UseN wife_N)))))) NoVoc,le ndoda ayinamfazi,lendvodza ayinamfati
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (PredetN (DemPredet that_Quant) old_woman_N)) (CopAP (PositA small_A))))) NoVoc,lezo zalukazi zimfuphi,leto talukati timfishane
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN ox_N)) (CopAP (PositA red_R))))) NoVoc,inkabi ibomvu,inkhabi ibovu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (PossNP (UseN shirt_N) (UsePron she_Pron))) (CopAP (PositA spotted_R))))) NoVoc,iyembe lakhe limabalabala,liyembe lakhe limabalabala
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop she_Pron)) (ComplV2 see_V2 (RelNP (DetCN (DetNum NumSg) (UseN clay_pot_N)) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA big_A))))))))) NoVoc,ubona ukhamba olukhulu,ubona ludziwo lolukhulu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (ComplV2 like_V2 (RelNP (DetCN (DetNum NumSg) (UseN man_N)) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA honest_R))))))))) NoVoc,sithanda indoda eqotho,sitsandza indvodza lecotfo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (UsePron (ProDrop we_Pron)) (CopNPAssoc (RelNP (DetCN (DetNum NumPl) (UseN dog_N)) (UseRCl TPresTemp PPos (RelVPShort IdRP (ComplV2 eat_V2 (DetCN (DetNum NumSg) (UseN meat_N)))))))))) NoVoc,sinezinja ezidla inyama,sinetinja letidla inyama
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (RelNP (DetCN (DetNum NumPl) (UseN cow_N)) (UseRCl TRemPastTemp PPos (RelVPShort IdRP (AdvVPLight (UseV eat_V) (LocAdvAdv (LocNPAdv (DetCN (DetNum NumSg) (UseN river_N)))))))) (UseV return_V)))) NoVoc,izinkomo ezadla emfuleni zizobuya,tinkhomo letadla emfuleni titobuya

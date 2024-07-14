@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask_Cors==4.0.0
+graphviz==0.20.1
+numpy==1.24.4
+pgf==1.0
+pgfaux==0.5
+gunicorn==21.2.0
